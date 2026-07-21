@@ -1,4 +1,4 @@
-# Hermann-D /  Portfolio Data scientist/Data Analyst
+# Hermann Deumeni /  Portfolio Data scientist/Data Analyst
 
 # 👋 Hallo, ich bin Hermann Deumeni
 
